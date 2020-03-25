@@ -36,31 +36,31 @@ Components Required:
 Wiring Schematics:
 
 
-Arduino UNO                                   RFID-RC522
+Arduino UNO      ----                             RFID-RC522
 
-•	Pin10					SDA
+•	Pin10		----			SDA
 
-•	Pin13                                  		SCK
+•	Pin13     ----                             		SCK
 
-•	Pin11					MOSI
+•	Pin11		----			MOSI
 
-•	Pin12					MISO
+•	Pin12			----		MISO
 
-•	---					IRQ
+•	---			----		IRQ
 
-•	GND					GND
+•	GND			----		GND
 
-•	Pin9					RST
+•	Pin9		----			RST
 
-•	3.3V					3.3V
+•	3.3V		----			3.3V
 
 
 
-Arduino UNO 			Servo Motor
+Arduino UNO 		----	Servo Motor
 
-•	Pin 3				Yellow wire
+•	Pin 3		----		Yellow wire
 
-•	5V				Red wire
+•	5V		----		Red wire
 
-•	GND				Black wire
+•	GND		----		Black wire
 
